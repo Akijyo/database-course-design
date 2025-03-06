@@ -1,0 +1,3 @@
+/var/lib/opengauss/code/DB/build/CMakeFiles/DBCS.dir
+/var/lib/opengauss/code/DB/build/CMakeFiles/edit_cache.dir
+/var/lib/opengauss/code/DB/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/Cabin.cpp.o -c /var/lib/opengauss/code/DB/src/Cabin.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/Cabin.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/Cabin.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/ConnectionPool.cpp.o -c /var/lib/opengauss/code/DB/src/ConnectionPool.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/ConnectionPool.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/ConnectionPool.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/Flight.cpp.o -c /var/lib/opengauss/code/DB/src/Flight.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/Flight.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/Flight.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/FlightBookingSystem.cpp.o -c /var/lib/opengauss/code/DB/src/FlightBookingSystem.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/FlightBookingSystem.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/FlightBookingSystem.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/Passenger.cpp.o -c /var/lib/opengauss/code/DB/src/Passenger.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/Passenger.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/Passenger.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/Ticket.cpp.o -c /var/lib/opengauss/code/DB/src/Ticket.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/Ticket.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/Ticket.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/src/sql.cpp.o -c /var/lib/opengauss/code/DB/src/sql.cpp",
+  "file": "/var/lib/opengauss/code/DB/src/sql.cpp",
+  "output": "CMakeFiles/DBCS.dir/src/sql.cpp.o"
+},
+{
+  "directory": "/var/lib/opengauss/code/DB/build",
+  "command": "/usr/bin/g++  -I/var/lib/opengauss/code/DB/include -I/usr/local/opengauss/include -g -std=c++23 -Wall -g -o CMakeFiles/DBCS.dir/main.cpp.o -c /var/lib/opengauss/code/DB/main.cpp",
+  "file": "/var/lib/opengauss/code/DB/main.cpp",
+  "output": "CMakeFiles/DBCS.dir/main.cpp.o"
+}
+]
